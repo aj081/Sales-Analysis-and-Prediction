@@ -17,3 +17,6 @@ A linear regression line has an equation of the form Y = a + bX, where X is the 
 ![image](https://user-images.githubusercontent.com/79453056/139523935-25d9db93-b579-4365-9f39-9b3be5252aea.png)
 
 By fitting a line through the sample training data points, we get a linear regression model and this line can be used to predict the output with different datapoints. 
+
+
+## Random Forest 
