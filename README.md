@@ -20,3 +20,11 @@ By fitting a line through the sample training data points, we get a linear regre
 
 
 ## Random Forest 
+Random Forest is a machine learning algorithm that can be used for a variety of tasks including regression and classification. It is an ensemble method, meaning that a random forest model is made up of a large number of small decision trees, called estimators, which each produce their own predictions. The random forest model combines the predictions of the estimators to produce a more accurate prediction.
+
+Standard decision tree classifiers have the disadvantage that they are prone to overfitting to the training set. The random forest's ensemble design allows the random forest to compensate for this. Random forests are very good for classification problems but are slightly less good at regression problems. In contrast to linear regression, a random forest regressor is unable to make predictions outside the range of its training data.
+
+To make a prediction for a new incoming example, we pass the relevant features of this example to each of the Ntree estimators. We will obtain Ntree predictions, which we need to combine to produce the overall prediction of the random forest. In the case of classification, we will use majority voting to decide on the predicted class, and in the case of regression, we will take the mean value of the predictions of all the estimators.
+
+https://images.deepai.org/user-content/9196004107-thumb-1447.svg
+
