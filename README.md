@@ -28,3 +28,6 @@ To make a prediction for a new incoming example, we pass the relevant features o
 
 
 ![3406775c0c6f8fd9f8701c7ca671dad9](https://user-images.githubusercontent.com/79453056/139573369-cb168970-d6de-4e56-ad66-af99b20b0aaf.png)
+
+
+In the above dataset, 
