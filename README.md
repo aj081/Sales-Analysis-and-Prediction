@@ -1,4 +1,4 @@
-# Sales-Analysis-and-Prediction.
+# Sales-Analysis-and-Prediction
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store. Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 # Steps involved 
 ### Import Relevant Libraries
@@ -29,5 +29,3 @@ To make a prediction for a new incoming example, we pass the relevant features o
 
 ![3406775c0c6f8fd9f8701c7ca671dad9](https://user-images.githubusercontent.com/79453056/139573369-cb168970-d6de-4e56-ad66-af99b20b0aaf.png)
 
-
-In the above dataset, 
