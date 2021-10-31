@@ -26,5 +26,5 @@ Standard decision tree classifiers have the disadvantage that they are prone to 
 
 To make a prediction for a new incoming example, we pass the relevant features of this example to each of the Ntree estimators. We will obtain Ntree predictions, which we need to combine to produce the overall prediction of the random forest. In the case of classification, we will use majority voting to decide on the predicted class, and in the case of regression, we will take the mean value of the predictions of all the estimators.
 
-https://images.deepai.org/user-content/9196004107-thumb-1447.svg
 
+https://files.ai-pool.com/a/3406775c0c6f8fd9f8701c7ca671dad9.png
